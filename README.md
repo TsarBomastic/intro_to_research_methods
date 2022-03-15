@@ -1,6 +1,11 @@
-# intro_to_research_methods
+# intro_to_research_methods  
 
-# Data install and script execution
+# Repository  
+in this repository you will find a script that counts the number of times  
+a specified word occures in a PDF file and an example PDF file to run the scipt on  
+the output should be 253 if done correctly  
+
+# Data install and script execution  
 to make sure our script (word_finder.sh) can read PDF files we need to install pdftohtml  
 we install it with this command: sudo apt install pdftohtml  
 go to the wiki page you want to use  
