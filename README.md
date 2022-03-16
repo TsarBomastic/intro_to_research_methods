@@ -17,7 +17,7 @@ execute the scipt by using the command ```bash worder_finder.sh <name_of_pdf_fil
 
 # Data and software used in this milestone
 Ubuntu version used: 20.04.3 LTS  
-Bash version used: 5.0.17(1)
+Bash version used: 5.0.17(1)-release
 
 in this milestone the dutch Wikipedia page of the Rijksuniversiteit was used (https://nl.wikipedia.org/wiki/Rijksuniversiteit_Groningen)  
 the Wikipedia page used is 09/03/2022  
