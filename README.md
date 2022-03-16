@@ -6,7 +6,7 @@ a specified word occures in a PDF file and an example PDF file to run the scipt 
 the output should be 253 if done correctly  
 
 # Data install and script execution  
-to make sure our script (word_finder.sh) can read PDF files we need to install pdftohtml
+to make sure our script (word_finder.sh) can read PDF files we need to install pdftohtml  
 to install the needed extention you need to open your preferred linux operator  
 we install the extention with this command ```sudo apt install pdftohtml```  
 go to the wiki page you want to use  
