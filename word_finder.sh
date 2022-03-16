@@ -8,6 +8,8 @@
 #in the file
 #Date: 15/03/2022
 
+#the code on how to open a file and how to enter a word has been adopted 
+#from Martijn Bartelds (Introduction to Research Methods)
 TEXT=$1
 if [ -z "$TEXT" ]
 then
